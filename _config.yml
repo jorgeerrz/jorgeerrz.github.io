@@ -2,7 +2,7 @@
 markdown:         kramdown
 highlighter:      pygments
 plugins:
-  - jekyll-gist 
+  - jekyll-gist
   - jekyll-paginate
 
 # Permalinks
@@ -23,6 +23,7 @@ paginate:         5
 
 # Custom vars
 version:          2.1.0
+pic:              https://raw.githubusercontent.com/jorgeerrz/jorgeerrz.github.io/main/profile_pic-modified.png
 
 github:
   repo:           https://github.com/jorgeerrz/jorgeerrz.github.io
