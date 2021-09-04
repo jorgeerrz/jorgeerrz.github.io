@@ -1,6 +1,7 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
+plugins: [jekyll-gist] 
 
 # Permalinks
 permalink:        pretty
@@ -8,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Jorge Ramírez-Ruiz
 tagline:          'A Jekyll theme'
-description:      'PhD candidate at [Universitat Pompeu Fabra](https://www.upf.edu)'
+description:      'PhD candidate at <a href="http://upf.edu" target="_blank">Universitat Pompeu Fabra</a>'
 url:              http://jorgeerrz.github.io
 baseurl:          /
 
