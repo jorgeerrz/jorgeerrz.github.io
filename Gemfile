@@ -11,3 +11,8 @@ gem "github-pages", "~> 219"
 gem "jekyll", "~> 3.9"
 
 gem 'pygments.rb'
+
+group :jekyll_plugins do
+gem "jekyll-gist"
+gem "jekyll-paginate"
+end
