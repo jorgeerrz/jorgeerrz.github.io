@@ -103,11 +103,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jorge Ramirez-Ruiz"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "PhD student at the Center for Brain and Cognition at UPF"
+  location         : "Barcelona"
+  email            : "jorge.ramirez@upf.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -291,7 +291,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
