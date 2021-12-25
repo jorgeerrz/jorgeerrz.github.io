@@ -4,7 +4,7 @@ title: "About"
 
 ---
 
-I am currently a PhD student at the [Center for Brain and Cognition]("https://www.upf.edu/web/cbc"), at the [Universitat Pompeu Fabra](https://www.upf.edu/) in Barcelona, Spain.
+I am currently a PhD student in the [Theoretical and Cognitive Neuroscience](https://www.upf.edu/web/tcn) lab at the [Center for Brain and Cognition]("https://www.upf.edu/web/cbc"), at the [Universitat Pompeu Fabra](https://www.upf.edu/) in Barcelona, Spain.
 
 I am interested in decision making, in a broad sense. I am fascinated by the role of agency in biology, and how this concept fits within our physical knowledge of the world.
 
