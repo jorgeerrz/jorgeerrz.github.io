@@ -1,9 +1,19 @@
 ---
 permalink: /
-title: false
+title: ""
 ---
 
-## What is this cartpole trying to do?
-  <video width="500" autoplay loop>
-    <source src="/assets/animations/cartpole.mp4" type="video/mp4" />
-  </video>
+What is this cartpole trying to do?
+
+<figure class="video_container">
+<video width="100%" autoplay loop>
+  <source src="/assets/animations/cartpole_betterquality.mp4" type="video/mp4" />
+</video>
+</figure>
+
+And what about this one?
+<figure class="video_container">
+<video width="100%" autoplay loop>
+  <source src="/assets/animations/cartpole_q.mp4" type="video/mp4" />
+</video>
+</figure>

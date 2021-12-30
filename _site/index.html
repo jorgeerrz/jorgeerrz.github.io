@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Home</title>
+<!-- begin _includes/seo.html --><title>  Home</title>
 <meta name="description" content="A personal website.">
 
 
@@ -269,7 +269,7 @@
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    
+    <meta itemprop="headline" content="">
     
     
     
@@ -277,7 +277,8 @@
     <div class="page__inner-wrap">
       
         <header>
-          
+          <h1 id="page-title" class="page__title" itemprop="headline">
+</h1>
           
 
 
@@ -286,10 +287,20 @@
 
       <section class="page__content" itemprop="text">
         
-        <h2 id="what-is-this-cartpole-trying-to-do">What is this cartpole trying to do?</h2>
-<video width="500" autoplay="" loop="">
-    <source src="/assets/animations/cartpole.mp4" type="video/mp4" />
-  </video>
+        <p>What is this cartpole trying to do?</p>
+
+<figure class="video_container">
+<video width="100%" autoplay="" loop="">
+  <source src="/assets/animations/cartpole_betterquality.mp4" type="video/mp4" />
+</video>
+</figure>
+
+<p>And what about this one?</p>
+<figure class="video_container">
+<video width="100%" autoplay="" loop="">
+  <source src="/assets/animations/cartpole_q.mp4" type="video/mp4" />
+</video>
+</figure>
 
         
       </section>
