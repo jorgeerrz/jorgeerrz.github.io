@@ -8,4 +8,6 @@ I am currently a PhD student in the [Theoretical and Cognitive Neuroscience](htt
 
 I am interested in decision making, in a broad sense. I am fascinated by the role of agency in biology, and how this concept fits within our physical knowledge of the world.
 
-In particular, I am convinced that constraints (in a broad sense, again) are key to thinking about the types of behaviours we find in living agents. The limited physical resources from which we are made and that we can exploit determine the kinds of things we can do, and the types of decisions and strategies that we can come up with to deal with the world.
+In particular, I am convinced that constraints are key to thinking about the types of behaviours we find in living agents. The limited physical resources from which we are made and that we can exploit determine the kinds of things we can do, and the types of decisions and strategies that we can come up with to deal with the world.
+
+I did my Bachelor's degree in Physics at UNAM (México) and a Master's degree in Condensed Matter Physics at the Université de Sherbrooke (Québec).
