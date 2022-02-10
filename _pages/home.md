@@ -15,9 +15,9 @@ What are these cartpoles trying to do?
 
 <figure class="video_container">
 <video width="50%" autoplay loop>
-  <source src="/assets/animations/cartpole_h.mp4" type="video/mp4" />
+  <source src="/assets/animations/cartpole_h_agent.mp4" type="video/mp4" />
 </video>
 <video width="50%" autoplay loop>
-  <source src="/assets/animations/cartpole_q.mp4" type="video/mp4" />
+  <source src="/assets/animations/cartpole_q_agent.mp4" type="video/mp4" />
 </video>
 </figure>
