@@ -16,10 +16,12 @@ During my PhD, I have been working on the [breadth-depth dilemma](https://www.pn
 Recently, I have been working on conceptualizing behavior as a manifestation of "exploration" as the only objective function. More details to come soon. In the meantime, I leave these cartpole animations of agents "trying" to do different things.
 
 <figure class="video_container">
-<video width="50%" autoplay loop>
+<video width="50%" preload autoplay loop muted>
   <source src="/assets/animations/cartpole_h_agent.mp4" type="video/mp4" />
+  <img src="cartpole_h_agent.gif">
 </video>
-<video width="50%" autoplay loop>
+<video width="50%" preload autoplay loop muted>
   <source src="/assets/animations/cartpole_q_agent.mp4" type="video/mp4" />
+  <img src="cartpole_q_agent.gif">
 </video>
 </figure>
