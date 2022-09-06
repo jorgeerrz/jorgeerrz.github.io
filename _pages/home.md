@@ -10,18 +10,9 @@ In particular, I am interested in the part that constraints play in the types of
 
 I did my Bachelor's degree in Physics at UNAM (México) and a Master's degree in Condensed Matter Physics at the Université de Sherbrooke (Québec).
 
-# Research
-During my PhD, I have been working on the [breadth-depth dilemma](https://www.pnas.org/content/117/33/19799), a bounded-rationality model to investigate the influence of sampling resource constraints (e.g. time, precision, compute) on decision-making strategies.
-
-Recently, I have been working on conceptualizing behavior as a manifestation of "exploration" as the only objective function. More details to come soon. In the meantime, I leave these cartpole animations of agents "trying" to do different things.
-
 <figure class="video_container">
-<video width="50%" preload autoplay loop muted>
+<video width="80%" preload autoplay loop muted>
   <source src="/assets/animations/cartpole_h_agent.mp4" type="video/mp4" />
   <img src="cartpole_h_agent.gif">
-</video>
-<video width="50%" preload autoplay loop muted>
-  <source src="/assets/animations/cartpole_q_agent.mp4" type="video/mp4" />
-  <img src="cartpole_q_agent.gif">
 </video>
 </figure>

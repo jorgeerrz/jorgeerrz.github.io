@@ -6,6 +6,7 @@ toc: true
 ---
 ## Articles
 
+-	Ramírez-Ruiz, J., Grytskyy, D. & Moreno-Bote, R. (2022). “Seeking entropy: Complex behavior from intrinsic motivation to occupy action-state path space.” arXiv preprint [arXiv:2205.10316](https://arxiv.org/abs/2205.10316).
 -	Ramírez-Ruiz, J., & Moreno-Bote, R. (2021). “Optimal allocation of finite sampling capacity in accumulator models of multi-alternative decision making.” arXiv preprint [arXiv:2102.01597](https://arxiv.org/abs/2102.01597).
 -	Moreno-Bote, R., Ramírez-Ruiz, J., Drugowitsch, J., & Hayden, B. Y. (2020). “Heuristics and optimal solutions to the breadth–depth dilemma.” [PNAS, 117(33), 19799-19808](https://www.pnas.org/content/117/33/19799).
 

@@ -50,9 +50,9 @@ body {
   .page__inner-wrap {
     float: left;
     margin-top: 1em;
-    margin-left: 0;
+    margin-left: 2em;
     margin-right: 0;
-    width: 100%;
+    width: 80%;
     clear: both;
 
     .page__content,
@@ -65,6 +65,28 @@ body {
       width: 100%;
       clear: both;
     }
+  }
+
+  .column {
+    float: left;
+    width: 50%;
+    font-size: $type-size-6;
+  }
+  .left {
+    width: 30%;
+  }
+  
+  .right {
+    width: 70%;
+  }
+  
+  
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
   }
 }
 
