@@ -52,7 +52,7 @@ body {
     margin-top: 1em;
     margin-left: 2em;
     margin-right: 0;
-    width: 80%;
+    width: 100%;
     clear: both;
 
     .page__content,
@@ -110,6 +110,12 @@ body {
 }
 
 .page__content {
+  .scrollabletextbox {
+    height:100px;
+    width:200px;
+    font-size: 82%;
+    overflow:scroll;
+}
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
@@ -134,8 +140,8 @@ body {
 
   p,
   li,
-  dl {
-    font-size: $type-size-5;
+  dl { //FONT SIZE OF MAIN PAGES
+    font-size: $type-size-6;
   }
 
   /* paragraph indents */

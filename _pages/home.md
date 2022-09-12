@@ -1,14 +1,12 @@
 ---
 permalink: /
 title: ""
+layout: single
 ---
-# About
-I am currently a PhD student in the [Theoretical and Cognitive Neuroscience](https://www.upf.edu/web/tcn) lab at the [Center for Brain and Cognition]("https://www.upf.edu/web/cbc"), at the [Universitat Pompeu Fabra](https://www.upf.edu/) in Barcelona, Spain.
 
-I am interested in the role of agency in biology, and how this concept fits within our physical knowledge of the world.
-In particular, I am interested in the part that constraints play in the types of behaviours we find in living, adaptive agents. Theory-wise, I am drawn towards optimal control, reinforcement learning, information theory, and related fields.
-
-I did my Bachelor's degree in Physics at UNAM (México) and a Master's degree in Condensed Matter Physics at the Université de Sherbrooke (Québec).
+# Recent news
+- September 2022: I spent the summer doing a research stay in Montréal at the [noiseLab](https://ebitzlab.com) working on an experimental task to understand the variability of decision making in humans. It was a very fruitful stay and collaboration that leaves a great opportunity to pursue plenty interesting questions! Thanks Becket!
+- May 2022: I will give a talk about our entropy seeking principle in the [2022 Barcelona Computational, Cognitive and Systems Neuroscience conference](https://www.crm.cat/barccsyn-2022/), to be held on May 26-27, 2022.
 
 <figure class="video_container">
 <video width="80%" preload autoplay loop muted>

@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: ""
-
+layout: single
 ---
 
 # Behavior as occupancy of action-state path space
