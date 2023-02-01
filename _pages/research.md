@@ -19,14 +19,8 @@ layout: single
  In this work, we propose a simple principle of behavior: occupying action-state path space. "Reward" in the usual sense becomes a means to achieve this goal, conceptualizing it as transitions between internal states. From this principle, we obtain diverse, complex behaviors that simple reward maximizing agents with endowed variability do not display. See [publications](/publications) for more information.
  
 <figure class="video_container">
-<video width="50%" preload autoplay loop muted>
-  <source src="/assets/animations/path_H_agent.mp4" type="video/mp4" />
-  <img src="path_H_agent.gif">
-</video>
-
-<video width="50%" preload autoplay loop muted>
-  <source src="/assets/animations/path_R_agent.mp4" type="video/mp4" />
-  <img src="path_R_agent.gif">
+<video width="100%" preload autoplay loop muted>
+  <source src="/assets/animations/Video5.mp4" type="video/mp4" />
 </video>
 </figure>
 
