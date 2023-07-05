@@ -5,10 +5,10 @@ toc: true
 
 ---
 ## Articles
-- Grytskyy, D., Ramírez-Ruiz, J., & Moreno-Bote, R. (2023). A general Markov decision process formalism for action-state entropy-regularized reward maximization. arXiv preprint [arXiv:2302.01098](https://arxiv.org/abs/2302.01098).
 
+-   Grytskyy, D., Ramírez-Ruiz, J., & Moreno-Bote, R. (2023). A general Markov decision process formalism for action-state entropy-regularized reward maximization. arXiv preprint [arXiv:2302.01098](https://arxiv.org/abs/2302.01098).
 -	Ramírez-Ruiz, J., Grytskyy, D. & Moreno-Bote, R. (2022). “Seeking entropy: Complex behavior from intrinsic motivation to occupy action-state path space.” arXiv preprint [arXiv:2205.10316](https://arxiv.org/abs/2205.10316).
--	Ramírez-Ruiz, J., & Moreno-Bote, R. (2021). “Optimal allocation of finite sampling capacity in accumulator models of multi-alternative decision making.” [Cognitive Science, 46(5), e13143.](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.13143).
+-	Ramírez-Ruiz, J., & Moreno-Bote, R. (2022). “Optimal allocation of finite sampling capacity in accumulator models of multi-alternative decision making.” [Cognitive Science, 46(5), e13143.](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.13143).
 -	Moreno-Bote, R., Ramírez-Ruiz, J., Drugowitsch, J., & Hayden, B. Y. (2020). “Heuristics and optimal solutions to the breadth–depth dilemma.” [PNAS, 117(33), 19799-19808](https://www.pnas.org/content/117/33/19799).
 
 In my past Physics life:
