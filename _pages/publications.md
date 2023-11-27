@@ -15,8 +15,9 @@ In my past Physics life:
 -	Ramírez-Ruiz, J., Boutin, S., & Garate, I. (2017). “NMR in an electric field: A bulk probe of the hidden spin and orbital polarizations.” [Physical Review B, 96(23), 235201](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.235201). Editors’ suggestion.
 -	Boutin, S., Ramírez-Ruiz, J., & Garate, I. (2016). “Tight-binding theory of NMR shifts in topological insulators Bi2Se3 and Bi2Te3.” [Physical Review B, 94(11), 115204](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.115204).
 
-## Conference posters
+## Conference & workshops
 
+- Moreno-Bote, R. & Ramírez-Ruiz, J. “Empowerment, Free Energy Principle and Maximum Occupancy Principle Compared”. NeurIPS 2023 workshop: Information- Theoretic Principles in Cognitive Systems, New Orleans, USA.
 - Ramírez-Ruiz, Grytskyy, D., Moreno-Bote, R. (2022) "Seeking entropy: Complex behavior from intrinsic motivation to occupy action-state path space." Deep Learning Barcelona conference. [PDF](/assets/images/incase_print_poster_DLBCN.pdf).
 - Ramírez-Ruiz, J., Anzai, A., Drugowitsch, J., DeAngelis, G. and Moreno-Bote R. (2021) "Behavioral mechanisms underlying visually-guided control of steering". Conference for the Spanish Neuroscience Society (SENC). [PDF](/assets/images/poster.pdf).
 - Ramírez-Ruiz, J., Mastrogiuseppe, C. and Moreno-Bote, R. (2021) "Magic number five: The breadth--depth dilemma in accumulator and tree-like models of decision making." Barcelona Cognitive, Computational and Systems Neuroscience conference. [PDF](/assets/images/poster_barccsyn_A0_print.pdf).
