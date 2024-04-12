@@ -4,7 +4,8 @@ title: ""
 layout: single
 ---
 
-# Recent news
+# News
+- March 2024: I joined the [Noise Lab](https://ebitzlab.com) as a postdoc to work on intrinsic motivation and exploration in humans. Excited to see where this goes!
 - November 2023: Our paper ["Empowerment, Free Energy Principle and Maximum Occupancy Principle compared"](https://openreview.net/forum?id=OcHrsQox0Z) was accepted in the [Information-Theoretic Principles in Cognitive Systems](https://sites.google.com/view/infocog-neurips-2023) 2023 NeurIPS workshop.
 - June 2023: I defended my PhD thesis, entitled ["Constraints and rewards in behavior and optimal decision making"](https://www.tdx.cat/handle/10803/688642#page=1), with "Sobresaliente Cum Laude" mention.
 - June 2023: I gave a talk at the [*Active learning in brains and machines*](https://conect-int.github.io/talk/2023-06-12-conect-workshop-on-learning/) CONNECT workshop in Marseille about our work on the maximum occupancy principle. 

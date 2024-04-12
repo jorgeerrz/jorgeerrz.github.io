@@ -105,9 +105,9 @@ analytics:
 author:
   name             : "Jorge Ramírez-Ruiz"
   avatar           : /assets/images/profile_pic-modified.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral research assistant at the Center for Brain and Cognition at UPF"
-  location         : "Barcelona, Spain"
-  email            : "jorge.ramirez@upf.edu"
+  bio              : "Postdoctoral intern at the Université de Montréal"
+  location         : "Montréal, Canada"
+  email            : "jorge.eduardo.ramirez.ruiz@umontreal.ca"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
