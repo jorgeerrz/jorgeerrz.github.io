@@ -5,8 +5,9 @@ layout: single
 ---
 
 # News
+- January 2025: Our workshop proposal entitled "PIMBAA: Principles for Intrinsic Motivations in Biological and Artificial Agents" got accepted at the [RLDM](https://rldm.org/call-for-workshops-2025/) conference to be held in Dublin in June, more news to come!
+- September 2024: I presented our ["Value emerges from imperfect memory"](https://www.biorxiv.org/content/10.1101/2024.05.26.595970.abstract) paper in the [Simulation of Adaptive Behavior](https://sab2024.socsci.uci.edu) conference, held in September in Irvine, CA.
 - July 2024: Our [Maximum Occupancy Principle paper](https://www.nature.com/articles/s41467-024-49711-1) is now published in Nature Communications!
-- June 2024: Our ["Value emerges from imperfect memory"](https://www.biorxiv.org/content/10.1101/2024.05.26.595970.abstract) paper got accepted in the [Simulation of Adaptive Behavior](https://sab2024.socsci.uci.edu) conference, to be held in September in Irvine, CA.
 - May 2024: I presented a poster and gave a spotlight talk at the [Fifth International Convention on Mathematics Of Neuroscience and AI](https://www.neuromonster.org)
 - May 2024: I got best [poster](/assets/images/print_poster_neuromonster.pdf) award at the UNIQUE Student symposium.
 - March 2024: I joined the [Noise Lab](https://ebitzlab.com) led by Pr. Becket Ebitz as a postdoc to work on intrinsic motivation and exploration in humans. Excited to see where this goes!
