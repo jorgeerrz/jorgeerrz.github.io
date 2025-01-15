@@ -3,4 +3,4 @@ permalink: /cv/
 title:
 
 ---
-[Here](/assets/images/tabularCV_JorgeRamirezRuiz.pdf) you can download a pdf of my full CV (updated May, 2024).
+You can download [a pdf of my full CV](/assets/images/tabularCV_JorgeRamirezRuiz.pdf) (updated January, 2025).
