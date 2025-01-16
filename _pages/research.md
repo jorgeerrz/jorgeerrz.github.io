@@ -5,7 +5,11 @@ layout: single
 ---
 # Research interests
 
-I am deeply interested in how integrated entities can make decisions in the world. In particular, I am fascinated by how this complex capacity for agency in wholes evolves from interactions of simple parts. Evidently, the evolutionary, ecological and developmental constraints of agents will influence the types of objectives and actions they can form. Two main questions keep haunting me:
+Living beings have the marvelous capacity to make decisions and plan their actions in a sophisticated way. This capacity is a direct consequence of their evolution and the environments where they evolved. This historical trajectory provides constraints not only to the types of decisions that organisms can make, but above all it continuously influences their interests in a way that we cannot fully understand their decisions without taking into acount their evolutionary ecologies. I am interested in studying decisions and actions as a consequence of goals generated autonomously and continuously by living beings, under the light of their eco-evo-developmental trajectories.
+
+<!-- I am deeply interested in how integrated entities can make decisions in the world. In particular, I am fascinated by how this complex capacity for agency in wholes evolves from interactions of simple parts. Evidently, the evolutionary, ecological and developmental constraints of agents will influence the types of objectives and actions they can form.  -->
+
+The main questions that haunt me day and night:
 - It seems apparent that agents do things for *reasons*. All the algorithms and mechanisms we hypothesize for decision making assume certain *reasons* for behavior. In my view, it is of utmost importance we aim to understand those *reasons*, or else our algorithmic and mechanistic understanding will be skewed. In short, what are agents trying to achieve? Why and how does an agent build those **objectives**? And how do those objectives change with context? 
 - If agency is an evolved trait, there should be a continuous trajectory of action abstraction. In fields like RL, the idea of action is almost a starting point, yet for me it is an end goal: how do **actions** emerge in complex systems that sustain themselves? How are action spaces formed and maintained to produce behavior? In other (more philosophical) words, where is the locus of agency and how plastic is it?
 
